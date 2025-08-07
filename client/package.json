@@ -19,7 +19,8 @@
     "react-scripts": "5.0.1",
     "usehooks-ts": "^3.1.1",
     "web-vitals": "^2.1.4",
-    "react-big-calendar": "^1.19.4"
+    "react-big-calendar": "^1.19.4",
+    "@emailjs/browser": "^4.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
