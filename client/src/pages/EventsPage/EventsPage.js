@@ -15,7 +15,7 @@ export default function EventsPage() {
     const [events, setEvents] = useState([]);
 
     useEffect(() => {
-        fetch('/api/events')
+        fetch('https://acmcsu.onrender.com/api/events')
           .then(res => {
             if (!res.ok) throw new Error(res.statusText);
             return res.json();
