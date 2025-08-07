@@ -18,7 +18,8 @@
     "react-router-dom": "^7.5.3",
     "react-scripts": "5.0.1",
     "usehooks-ts": "^3.1.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "react-big-calendar": "^1.19.4"
   },
   "scripts": {
     "start": "react-scripts start",
